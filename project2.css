@@ -1,0 +1,32 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #e8c76a;
+  }
+  
+  .self-introduction {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #5a2c02;
+  }
+  
+  .nancy-img {
+    max-width: 100%;
+    height: 350px;
+    border-radius: 8px;
+  }
